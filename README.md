@@ -13,7 +13,7 @@ Here are my github stats:
 
 ![Most Used language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spol-29&layout=compact&theme=radical)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=spol-29&show_icons=true&theme=radical
+![Most Used language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spol-29&show_icons=true&theme=radical)
 
 <p align="center"> 
   Visitor count<br>
