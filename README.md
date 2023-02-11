@@ -4,7 +4,7 @@ My name is spol29 and I am a beginner developer. 💻
 
 I am learning 💙C++, 🐍Python, and ☕️Java. 
 
-I am also interested in Competetive Programming & Web Development
+I am also interested in Competitive Programming & Web Development
 
 Here are my github stats:
 
