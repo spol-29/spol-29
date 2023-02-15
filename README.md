@@ -1,4 +1,4 @@
-Hi there ![image](https://user-images.githubusercontent.com/68199583/218932404-2673da0d-fc32-4d14-9e59-fc8ff0286e7a.png)
+Hi there!
 
 My name is spol29 and I am a beginner developer. 💻
 
