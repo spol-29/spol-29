@@ -2,7 +2,7 @@ Hi there!
 
 My name is spol29 and I am a beginner developer. 💻👨‍💻
 
-I am learning 💙C++, 🐍Python, and ☕️Java. 
+I am fluent with 💙C++, and am learning 🐍Python, and ☕️Java. 
 
 I am also interested in Competitive Programming & Web Development
 
