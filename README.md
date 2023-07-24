@@ -1,6 +1,6 @@
 Hi there!
 
-My name is spol29 and I am a beginner developer. 💻👨‍💻
+My name is spol29 and I am a beginner/intermediate developer. 💻👨‍💻
 
 I am fluent with 💙C++, 🐍Python, ☕️Java, and am interested in Machine Learning 🤖. 
 
