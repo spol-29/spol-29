@@ -1,7 +1,7 @@
 Hi there!
 
 My name is spol29 and I am a beginner/intermediate developer. 💻👨‍💻
-I am learning 🐍Python, C++, ☕Java, and am interested & am learning Machine Learning 🤖. 
+I am know 🐍Python, C++, ☕Java, and am interested & am learning Machine Learning 🤖. 
 I am also interested in Competitive Programming & Web Development
 Here are my github stats:
 
