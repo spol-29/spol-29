@@ -2,6 +2,5 @@
 
 --About Me--
 
-Interested in machine learning, competitive programming, app & web development
-
-I use: Python, C++, Java, Kotlin, JS, Swift
+Interested in machine learning, competitive programming
+I use: Python, C++, Java, JS
